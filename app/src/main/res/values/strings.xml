@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mahasiswa</string>
+    <string name="str_tv_title">Enter Name to store in SQLite</string>
+    <string name="str_et_name">Nama mahasiswa</string>
+    <string name="str_btn_insert">DATA BARU</string>
+    <string name="str_btn_read">BACA DATA</string>
+</resources>
