@@ -55,6 +55,14 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+//    public void validation() {
+//        if (!textViewResult.getText().toString().matches("")) {
+//            textViewResult.setText("");
+//        } else {
+//            readData(textViewResult);
+//        }
+//    }
+
     public void readData(View view) {
         ArrayList<String> data = new ArrayList<>();
 
